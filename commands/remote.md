@@ -1,6 +1,6 @@
 # git remote
 
-when working with git, a **remote** is any git repository that is not on the machine you are working on. Tht counterpart is **local**, or the machine it was developed on
+when working with git, a **remote** is any git repository that is not on the machine you are working on. That counterpart is **local**, or the machine it was developed on
 
 take GitHub for example. While git is the technology thta allows you to create local repositories, GitHub is the sight that will host your remote repositories. Once stored remotely, you can bring that repository back down or share it with others
 
