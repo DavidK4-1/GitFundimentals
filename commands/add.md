@@ -12,3 +12,4 @@ you can specify tracking directories with `git add directoryName`
 ## Resources 
 - [git add documentation](https://git-scm.com/docs/git-add)
 ---
+[back to home](../README.md)

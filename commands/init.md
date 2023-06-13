@@ -20,6 +20,6 @@ Init will create the repository in the current directory and will encapsulate al
 
 ## Resources
 
--[git init documentation](https://git-scm.com/docs/git-init)
+- [git init documentation](https://git-scm.com/docs/git-init)
 ---
 [back to home](../README.md)
